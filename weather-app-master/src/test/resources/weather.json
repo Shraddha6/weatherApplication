@@ -1,0 +1,16 @@
+{
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky"
+    }
+  ],
+  "base": "cmc stations",
+  "main": {
+    "temp": 293.7
+  },
+  "id": 800,
+  "name": "ajman",
+  "cod": 200
+}
